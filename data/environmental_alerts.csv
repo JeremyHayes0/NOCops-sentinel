@@ -1,0 +1,78 @@
+timestamp,system,system_type,location,alert_type,severity,status
+2026-05-31 00:00:00,CRAC-01,HVAC,Data Hall A,Airflow Alert,Medium,Resolved
+2026-05-31 01:00:00,UPS-02,UPS,Power Room B,Load Threshold Exceeded,Low,Escalated
+2026-05-31 01:00:00,CRAC-01,HVAC,Data Hall A,Airflow Alert,Low,Monitoring
+2026-05-31 03:00:00,UPS-01,UPS,Power Room A,Bypass Mode,Low,Resolved
+2026-05-31 03:00:00,GEN-01,Generator,Exterior Pad,Fuel Level Low,Low,Escalated
+2026-05-31 03:00:00,CRAC-01,HVAC,Data Hall A,Airflow Alert,Critical,Open
+2026-05-31 03:00:00,DOOR-ACCESS-01,Security,Main Entrance,Door Forced Open,Critical,Open
+2026-05-31 04:00:00,DOOR-ACCESS-01,Security,Main Entrance,Camera Offline,Low,Resolved
+2026-05-31 05:00:00,CRAC-01,HVAC,Data Hall A,Airflow Alert,Medium,Open
+2026-05-31 07:00:00,UPS-02,UPS,Power Room B,Load Threshold Exceeded,Low,Resolved
+2026-05-31 09:00:00,UPS-02,UPS,Power Room B,Bypass Mode,Low,Open
+2026-05-31 09:00:00,CRAC-01,HVAC,Data Hall A,Airflow Alert,Medium,Open
+2026-05-31 09:00:00,CRAC-02,HVAC,Data Hall B,Airflow Alert,Medium,Monitoring
+2026-05-31 09:00:00,DOOR-ACCESS-01,Security,Main Entrance,Camera Offline,Critical,Monitoring
+2026-05-31 10:00:00,CRAC-01,HVAC,Data Hall A,Humidity Warning,Medium,Open
+2026-05-31 10:00:00,CRAC-02,HVAC,Data Hall B,Temperature High,Low,Escalated
+2026-05-31 11:00:00,UPS-01,UPS,Power Room A,Load Threshold Exceeded,Low,Monitoring
+2026-05-31 11:00:00,CRAC-01,HVAC,Data Hall A,Airflow Alert,Low,Open
+2026-05-31 12:00:00,GEN-01,Generator,Exterior Pad,Maintenance Required,Low,Escalated
+2026-05-31 13:00:00,UPS-02,UPS,Power Room B,Battery Warning,Medium,Resolved
+2026-05-31 14:00:00,DOOR-ACCESS-01,Security,Main Entrance,Camera Offline,Low,Open
+2026-05-31 15:00:00,UPS-01,UPS,Power Room A,Bypass Mode,Low,Open
+2026-05-31 16:00:00,UPS-02,UPS,Power Room B,Battery Warning,Medium,Escalated
+2026-05-31 16:00:00,GEN-01,Generator,Exterior Pad,Fuel Level Low,Medium,Open
+2026-05-31 17:00:00,GEN-01,Generator,Exterior Pad,Fuel Level Low,Low,Monitoring
+2026-05-31 17:00:00,DOOR-ACCESS-01,Security,Main Entrance,Badge Access Failure,Medium,Resolved
+2026-05-31 19:00:00,GEN-01,Generator,Exterior Pad,Fuel Level Low,Medium,Monitoring
+2026-05-31 20:00:00,CRAC-02,HVAC,Data Hall B,Airflow Alert,Medium,Escalated
+2026-05-31 20:00:00,DOOR-ACCESS-01,Security,Main Entrance,Camera Offline,Low,Open
+2026-05-31 22:00:00,UPS-01,UPS,Power Room A,Battery Warning,Medium,Monitoring
+2026-05-31 22:00:00,GEN-01,Generator,Exterior Pad,Startup Test Failed,Low,Escalated
+2026-05-31 22:00:00,CRAC-01,HVAC,Data Hall A,Airflow Alert,Medium,Monitoring
+2026-05-31 22:00:00,FIRE-01,Fire Suppression,Data Hall A,Sensor Fault,Critical,Resolved
+2026-05-31 23:00:00,UPS-01,UPS,Power Room A,Battery Warning,Low,Resolved
+2026-05-31 23:00:00,CRAC-02,HVAC,Data Hall B,Humidity Warning,Low,Escalated
+2026-05-31 23:00:00,DOOR-ACCESS-01,Security,Main Entrance,Door Forced Open,Medium,Escalated
+2026-06-01 00:00:00,CRAC-01,HVAC,Data Hall A,Airflow Alert,Low,Escalated
+2026-06-01 01:00:00,UPS-01,UPS,Power Room A,Bypass Mode,Low,Open
+2026-06-01 02:00:00,CRAC-02,HVAC,Data Hall B,Temperature High,Low,Escalated
+2026-06-01 02:00:00,FIRE-01,Fire Suppression,Data Hall A,Sensor Fault,Low,Open
+2026-06-01 03:00:00,GEN-01,Generator,Exterior Pad,Maintenance Required,Low,Resolved
+2026-06-01 03:00:00,DOOR-ACCESS-01,Security,Main Entrance,Door Forced Open,Medium,Resolved
+2026-06-01 04:00:00,UPS-01,UPS,Power Room A,Bypass Mode,Low,Resolved
+2026-06-01 04:00:00,UPS-02,UPS,Power Room B,Load Threshold Exceeded,Critical,Monitoring
+2026-06-01 04:00:00,CRAC-02,HVAC,Data Hall B,Airflow Alert,Medium,Escalated
+2026-06-01 04:00:00,DOOR-ACCESS-01,Security,Main Entrance,Camera Offline,Critical,Monitoring
+2026-06-01 05:00:00,UPS-01,UPS,Power Room A,Load Threshold Exceeded,Medium,Resolved
+2026-06-01 05:00:00,CRAC-01,HVAC,Data Hall A,Airflow Alert,Low,Monitoring
+2026-06-01 05:00:00,FIRE-01,Fire Suppression,Data Hall A,Panel Warning,Low,Open
+2026-06-01 05:00:00,DOOR-ACCESS-01,Security,Main Entrance,Camera Offline,Critical,Monitoring
+2026-06-01 06:00:00,GEN-01,Generator,Exterior Pad,Maintenance Required,Medium,Open
+2026-06-01 06:00:00,CRAC-01,HVAC,Data Hall A,Airflow Alert,Low,Open
+2026-06-01 07:00:00,GEN-01,Generator,Exterior Pad,Maintenance Required,Low,Monitoring
+2026-06-01 08:00:00,GEN-01,Generator,Exterior Pad,Fuel Level Low,Low,Resolved
+2026-06-01 08:00:00,CRAC-02,HVAC,Data Hall B,Airflow Alert,Critical,Monitoring
+2026-06-01 08:00:00,DOOR-ACCESS-01,Security,Main Entrance,Camera Offline,Medium,Open
+2026-06-01 09:00:00,GEN-01,Generator,Exterior Pad,Startup Test Failed,Low,Open
+2026-06-01 09:00:00,CRAC-01,HVAC,Data Hall A,Airflow Alert,Medium,Escalated
+2026-06-01 12:00:00,CRAC-02,HVAC,Data Hall B,Temperature High,Medium,Escalated
+2026-06-01 13:00:00,UPS-02,UPS,Power Room B,Load Threshold Exceeded,Critical,Open
+2026-06-01 13:00:00,DOOR-ACCESS-01,Security,Main Entrance,Badge Access Failure,Low,Open
+2026-06-01 15:00:00,UPS-01,UPS,Power Room A,Battery Warning,Medium,Monitoring
+2026-06-01 15:00:00,UPS-02,UPS,Power Room B,Bypass Mode,Critical,Escalated
+2026-06-01 15:00:00,GEN-01,Generator,Exterior Pad,Maintenance Required,Medium,Resolved
+2026-06-01 16:00:00,UPS-02,UPS,Power Room B,Load Threshold Exceeded,Medium,Escalated
+2026-06-01 16:00:00,CRAC-02,HVAC,Data Hall B,Temperature High,Medium,Open
+2026-06-01 17:00:00,FIRE-01,Fire Suppression,Data Hall A,Sensor Fault,Low,Monitoring
+2026-06-01 18:00:00,GEN-01,Generator,Exterior Pad,Fuel Level Low,Medium,Escalated
+2026-06-01 20:00:00,CRAC-02,HVAC,Data Hall B,Temperature High,Low,Monitoring
+2026-06-01 21:00:00,UPS-02,UPS,Power Room B,Load Threshold Exceeded,Low,Escalated
+2026-06-01 21:00:00,CRAC-01,HVAC,Data Hall A,Humidity Warning,Low,Open
+2026-06-01 22:00:00,UPS-02,UPS,Power Room B,Load Threshold Exceeded,Low,Escalated
+2026-06-01 22:00:00,GEN-01,Generator,Exterior Pad,Maintenance Required,Medium,Resolved
+2026-06-01 22:00:00,CRAC-02,HVAC,Data Hall B,Airflow Alert,Low,Escalated
+2026-06-01 22:00:00,FIRE-01,Fire Suppression,Data Hall A,Sensor Fault,Critical,Escalated
+2026-06-01 22:00:00,DOOR-ACCESS-01,Security,Main Entrance,Door Forced Open,Low,Open
+2026-06-01 23:00:00,FIRE-01,Fire Suppression,Data Hall A,Panel Warning,Low,Escalated
